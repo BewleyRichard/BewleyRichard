@@ -1,16 +1,13 @@
-### Hi there 👋
+Hello, I'm Richard Bewley. 
 
-<!--
-**BewleyRichard/BewleyRichard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+* :computer: I'm currently retraining to become a web developer and am enrolled on the Hyperion Development full-stack web development bootcamp. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+* :fast_forward: I'm actively looking for my first junior tech job where I can advance my development abilities. 
+
+
+* :seedling: I'm currently learning React development and APIs. 
+
+
+* :file_folder: I'm now showcasing the numerous projects I've completed at HyperionDev on my Git account.
