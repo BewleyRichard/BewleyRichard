@@ -1,7 +1,7 @@
 Hello, I'm Richard Bewley. 
 
 
-* :computer: I'm currently retraining to become a web developer and am enrolled on the Hyperion Development full-stack web development bootcamp. 
+* :computer: I'm enrolled on the Hyperion Development full-stack web development bootcamp as I retrain to become a web developer. 
 
 
 * :fast_forward: I'm actively looking for my first junior tech job where I can advance my development abilities. 
